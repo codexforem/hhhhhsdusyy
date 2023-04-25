@@ -1,0 +1,19 @@
+{
+ "name": "hhhhhsdusyy",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "pip3 install -r requirements.txt",
+        "start": "python3 -m bot"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/codexforem/hhhhhsdusyy.git"
+    },
+    "author": "",
+    "license": "ISC",
+   "bugs": {
+"url": ""
+  },
+   "homepage": "https://github.com/codexforem"
+}
